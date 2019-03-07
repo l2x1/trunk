@@ -1,7 +1,7 @@
 import React from 'react';
 
 import {
-  AppRegistry, Image, View, TouchableOpacity, Alert, StyleSheet, Text,
+  AppRegistry, Image, View, TouchableOpacity, StyleSheet, Text,
 } from 'react-native';
 
 const fond = 'https://images.pexels.com/photos/1212487/pexels-photo-1212487.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500';
